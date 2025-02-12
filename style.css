@@ -1,9 +1,19 @@
 .title {
-    color: orange;
-    background-color: red;
+    color: purple;
+    background-color: orange;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 20px;
 }
 
 .heading {
-    color: greenyellow;
-    background-color: green;
+    color: orange;
+    background-color: yellow;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 300px;
+    height: auto;
 }
